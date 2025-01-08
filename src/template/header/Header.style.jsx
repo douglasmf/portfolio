@@ -1,7 +1,6 @@
 import styled from "styled-components";
 import { darkTheme } from "../../themes/Themes";
 
-
 export const HeaderContainer = styled.header`
   position: fixed;
   top: 0;
@@ -67,7 +66,7 @@ export const TitlePerfil = styled.h1`
   color: ${darkTheme.colors.text};
   font-weight: bold;
   font-size: 1.6rem;
-  margin-top: 10%;
+  margin-top: 15%;
   @media(max-width: 1200px){
     font-size: 1.4rem;
   }

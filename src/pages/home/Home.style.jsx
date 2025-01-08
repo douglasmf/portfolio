@@ -1,5 +1,6 @@
 import styled from "styled-components";
 import { darkTheme } from "../../themes/Themes";
+import { Link } from "react-scroll";
 
 export const HomeContainer = styled.section`
     position: relative;
@@ -71,7 +72,7 @@ export const HomeContain = styled.div`
   }
 `;
 
-export const ContactButton = styled.a`
+export const ContactButton = styled(Link)`
     color: ${darkTheme.colors.text};
     font-weight: bold;
     background-color: ${darkTheme.colors.secondary};
@@ -79,6 +80,7 @@ export const ContactButton = styled.a`
     padding: .8rem 1.5rem;
     border-radius: 1rem;
     transition: all .8s;
+    cursor: pointer;
     &:hover{
         background-color: ${darkTheme.colors.secondaryDark};
     }

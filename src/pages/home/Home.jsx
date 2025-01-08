@@ -8,7 +8,12 @@ const Home = () => {
           <p>Bem-Vindo</p>
           <h1>Douglas Monteiro</h1>
           <h2>Desenvolvedor Front-End</h2>
-          <S.ContactButton>
+          <S.ContactButton
+          to="contact"
+          smooth={true}
+          duration={500}
+          spy={true} 
+          activeClass="active" >
             Contacte-me
           </S.ContactButton>
         </S.HomeContain>

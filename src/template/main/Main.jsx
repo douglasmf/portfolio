@@ -4,7 +4,7 @@ import About from '../../pages/about/About'
 import Contact from '../../pages/contact/Contact'
 import Home from '../../pages/home/Home'
 import Projects from '../../pages/projects/Projects'
-import Skills from '../../pages/skills/Skills2'
+import Skills from '../../pages/skills/Skills'
 
 const Main = () => {
   return (
