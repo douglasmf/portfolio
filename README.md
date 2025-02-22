@@ -1,8 +1,15 @@
-# React + Vite
+# Portfólio
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+no meu Portfólio você encontrará meus conhecimentos, projetos e informações de contato
 
-Currently, two official plugins are available:
+Site no ar: https://portfolio-psi-ten-31.vercel.app/
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+![Portfolio](https://portfolio-psi-ten-31.vercel.app/portfolioLG.png)  
+
+
+
+
+
+
+
+![Portfolio](https://portfolio-psi-ten-31.vercel.app/portfolioSM.png)  
