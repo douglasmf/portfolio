@@ -12,7 +12,7 @@ const About = () => {
           </p>
           <p>Minhas principais habilidades envolvem HTML, CSS, JavaScript e React. Estou sempre aberto a explorar novas ferramentas e frameworks que possam agregar valor aos projetos. Atualmente, estou em busca da minha primeira oportunidade para aplicar e expandir meus conhecimentos.</p>
         </S.AboutText>
-        <S.CurriculoButton href="#">
+        <S.CurriculoButton href="/curriculo.pdf" target="_blank">
           Curriculo
         </S.CurriculoButton>
     </S.AboutContainer>

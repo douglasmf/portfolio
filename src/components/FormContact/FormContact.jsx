@@ -21,9 +21,9 @@ const FormContact = () => {
             message: message
         }
 
-        emailjs.send("service_6lioq3k", "template_eedcpmc", templateParams, "5UmlU9L2Mnac7wX5t")
+        emailjs.send("service_6x1v0j7", "template_eedcpmc", templateParams, "5UmlU9L2Mnac7wX5t")
         .then((response) => {
-          console.log("Email Enviado", response.status, response.text);
+          alert("Email Enviado")
           setName('')
           setEmail('')
           setMessage('')

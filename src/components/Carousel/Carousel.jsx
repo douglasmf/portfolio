@@ -3,7 +3,7 @@ import * as S from './Carousel.style';
 import useMedia from '../../hooks/useMedia'
 
 const Carousel = ({ projects }) => {
-    const [currentIndex, setCurrentIndex] = useState(0);
+  const [currentIndex, setCurrentIndex] = useState(0);
   const telaSM = useMedia('(max-width: 500px)');
   const telaMD = useMedia('(max-width: 768px)');
 
