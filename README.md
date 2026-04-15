@@ -1,16 +1,18 @@
-# React + Vite
+<h1 align="center">Portfólio - Douglas Monteiro</h1>
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+## 📌 Descrição
 
-Currently, two official plugins are available:
+No meu Portfólio você encontrará projetos em que pude praticar meu aprendizado , alem de informações de contato<br/>
+Site: <a href="https://portfolio-xi-ten-54.vercel.app/" target="_blank">https://portfolio-xi-ten-54.vercel.app/</a>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+## 🚀 Tecnologias Utilizadas
 
-## React Compiler
+- HTML5  
+- CSS3  
+- JavaScript
+- React  
+- Styled-Components
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<p align="center">
+  <img src="./public/screenshots/portfolio.png" width="700" alt="Screenshot do projeto">
+</p> 
