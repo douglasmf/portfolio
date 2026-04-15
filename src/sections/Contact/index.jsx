@@ -89,7 +89,7 @@ export const Contact = () => {
                 <FaEnvelope />
                 <span>douglas.m.f.1995@gmail.com</span>
               </S.Link>
-              <S.Link href="www.linkedin.com/in/douglas-monteiro-421b90300" target="_blank">
+              <S.Link href="https://www.linkedin.com/in/douglas-monteiro-421b90300/" target="_blank">
                 <FaLinkedin />
                 <span>Linkedin</span>
               </S.Link>

@@ -13,7 +13,7 @@ export const Header = ({ open, setOpen }) => {
         <Nav/>
         <S.Right>
             <S.SocialIcons>
-                <S.IconSocial href='www.linkedin.com/in/douglas-monteiro-421b90300' target='_blank' rel='noopener noreferrer'>
+                <S.IconSocial href='https://www.linkedin.com/in/douglas-monteiro-421b90300/' target='_blank' rel='noopener noreferrer'>
                     <FaLinkedin/><span>Linkedin</span>
                 </S.IconSocial>
                 <S.IconSocial href='https://github.com/douglasmf' target='_blank' rel='noopener noreferrer'>
