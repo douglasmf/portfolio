@@ -14,5 +14,5 @@ Site: <a href="https://portfolio-douglas-opal.vercel.app" target="_blank">https:
 - Styled-Components
 
 <p align="center">
-  <img src="./public/screenshots/portfolio.png" width="700" alt="Screenshot do projeto">
+  <img src="./public/projetos/portfolio.png" width="700" alt="Screenshot do projeto">
 </p> 
