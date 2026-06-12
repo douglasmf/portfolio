@@ -1,20 +1,21 @@
 export const projects = [
   {
     id: 1,
+    title: "PrimeCart",
+    description: "Aplicação de e-commerce desenvolvida com Next.js e NestJS, com catálogo de produtos, carrinho de compras, autenticação de usuários e painel administrativo para gerenciamento de produtos e categorias.",
+    image: "/projetos/primeCart.png",
+    repo: "https://github.com/douglasmf/PrimeCart",
+    site: "https://prime-cart-henna.vercel.app/auth"
+  },
+  {
+    id: 2,
     title: "CinePrime",
     description: "é uma aplicação web para descoberta de filmes, onde o usuário pode navegar por títulos organizados por categorias, realizar buscas e adicionar filmes a uma lista de favoritos.",
     image: "/projetos/cinePrime.png",
     repo: "https://github.com/douglasmf/CinePrime",
     site: "https://cine-prime-beta.vercel.app"
   },
-  {
-    id: 2,
-    title: "ListaCompras",
-    description: "é uma aplicação para a criação de uma lista de compras, com opções de buscar, adicionar, editar ou remover uma compra e visualizar o valor total das compras.",
-    image: "/projetos/listaCompras.png",
-    repo: "https://github.com/douglasmf/lista-compras-fullstack-laravel-react",
-    site: "https://listacompras-rosy-nine.vercel.app"
-  },
+  
   {
     id: 3,
     title: "My Finance",
